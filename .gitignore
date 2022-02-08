@@ -1,5 +1,4 @@
-config.json
-data.json
-benchmark.sh
-endpoint.py
-logs.py
+./config.json
+./data.json
+./endpoint.py
+./logs.py
