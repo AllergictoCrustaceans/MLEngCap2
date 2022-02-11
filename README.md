@@ -137,7 +137,9 @@ The image above shows us the pipelines are on a scheduled run once it has been c
 This is the screen recording part, which is linked below!
 
 ## Screen Recording
-![Demo w/ Audio of Explanation](demo.mp4)
+The video was too big to embed onto README.md, or even upload onto the repo. So, the link will have to do 🙃
+[Demo Video](https://www.loom.com/share/e6c01c2d11ae4a03850ba439123146c3)
+
 
 ----------------------------------------------------------
 
